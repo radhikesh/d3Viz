@@ -1,0 +1,24 @@
+/*.d3Histogram.html-widget{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.d3Histogram.html-widget .outer {
+    width: 600px;
+    height: 600px;
+    overflow: auto;
+}
+.d3Histogram.html-widget .inner {
+    width: 800px;
+    height:300px;
+	overflow: auto;
+}
+*/
+
+div #container {
+    height: 500px;
+    width: 1000px;
+    border:1px solid #000;
+    overflow: scroll;
+}
